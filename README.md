@@ -1,60 +1,70 @@
-<h1 align="center">Ivan Bogdanov Ivanov</h1>
-<h3 align="center">IT Support · Networking · Automation — Toronto, ON</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://ivanbiv.lovable.app"><img src="https://img.shields.io/badge/Portfolio-ivanbiv.lovable.app-blue?style=flat&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ivan-bogdanov-ivanov/"><img src="https://img.shields.io/badge/LinkedIn-ivan--bogdanov--ivanov-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ivanbogdanov.ivanov@georgebrown.ca"><img src="https://img.shields.io/badge/Email-georgebrown.ca-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat"/>
-</p>
+# Ivan Bogdanov Ivanov
 
----
+**Computer Systems Technician · Toronto, ON**
 
-### 👨‍💻 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-ivanbiv.lovable.app-01696F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ivanbiv.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-bogdanov-ivanov/)
+[![Email](https://img.shields.io/badge/Email-ivanbogdanov.ivanov%40georgebrown.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanbogdanov.ivanov@georgebrown.ca)
 
-Computer Systems Technician student at **George Brown College** — hands-on with Windows Server 2025, Active Directory, Cisco networking labs (CCNAv7), and automation scripting.
-
-- 🔭 Building: Cisco CCNA labs, IT support scripts, automation workflows
-- 🌱 Learning: CCNA certification, PowerShell, Linux administration
-- 💼 Seeking: Junior IT Support / Help Desk / Networking role in Toronto
-- 🏙️ Based in: Toronto, ON (open to remote)
+</div>
 
 ---
 
-### 🛠️ Skills
+Computer Systems Technician student at **George Brown College** (2024–2026), building hands-on skills across IT infrastructure, Cisco networking, and automation scripting. I document everything I build — every lab, every script, every config — so the work speaks for itself.
 
-| IT Support & Systems | Networking | Automation & Scripting | Web & Tools |
-|---|---|---|---|
-| Windows 11 & Server 2025 | Cisco IOS (routers/switches) | Python | HTML/CSS/JS |
-| Active Directory & GPO | VLANs, Trunking, EtherChannel | Bash & Shell | React |
-| NTFS Permissions | OSPF, ACLs, NAT, DHCP | Git & GitHub | VS Code |
-| Hardware Diagnostics | IP Addressing & Subnetting | GitHub Actions & CI/CD | Figma |
-| Office 365 | Packet Tracer / NETLAB+ | AI Workflow Automation | Linux (Kali) |
+Currently pursuing **CCNAv7** and actively looking for a junior IT support, help desk, or networking role in Toronto.
 
 ---
 
-### 📂 Featured Projects
+## Featured Projects
 
-| Repo | Description | Tech |
-|---|---|---|
-| [networking-labs](https://github.com/ivanbogdanoviv/networking-labs) | 12 CCNA labs — VLANs, OSPF, NAT, ACLs, DHCP, EtherChannel | Cisco IOS, Python, Bash |
-| [active-directory-lab](https://github.com/ivanbogdanoviv/active-directory-lab) | Windows Server 2025 AD DS — users, OUs, GPOs, PowerShell | PowerShell, Windows Server |
-| [it-support-scripts](https://github.com/ivanbogdanoviv/it-support-scripts) | Sysadmin scripts for Windows & Linux environments | PowerShell, Bash, Python |
-| [github-automation-playground](https://github.com/ivanbogdanoviv/github-automation-playground) | CI/CD pipelines, GitHub Actions, automation scripts | Python, GitHub Actions |
-| [ai-notification-workflows](https://github.com/ivanbogdanoviv/ai-notification-workflows) | AI-powered email summarization and digest automation | Python, APIs, Webhooks |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanbogdanoviv&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanbogdanoviv&layout=compact&theme=dark&hide_border=true" width="48%"/>
-</p>
+| Project | What It Is | Stack |
+|---------|-----------|-------|
+| [**networking-labs**](https://github.com/ivanbogdanoviv/networking-labs) | 13 CCNA labs with full topology diagrams, IOS configs, and addressing tables — VLANs, OSPF, NAT, ACLs, DHCP, EtherChannel | Cisco IOS · Python · Bash |
+| [**active-directory-lab**](https://github.com/ivanbogdanoviv/active-directory-lab) | Windows Server 2025 AD DS — OU design, bulk user provisioning, Group Policy, account lifecycle automation | PowerShell · Windows Server 2025 |
+| [**it-support-scripts**](https://github.com/ivanbogdanoviv/it-support-scripts) | Production-ready sysadmin scripts for Windows and Linux — system health, log analysis, user audits, config backups | PowerShell · Bash · Python |
+| [**github-automation-playground**](https://github.com/ivanbogdanoviv/github-automation-playground) | CI/CD pipelines and GitHub Actions workflows built to sharpen DevOps fundamentals | Python · GitHub Actions |
 
 ---
 
-### 📫 Let's Connect
+## Skills
 
-I'm actively looking for a junior IT support, networking, or automation role in Toronto.
-Reach out via [LinkedIn](https://www.linkedin.com/in/ivan-bogdanov-ivanov/) or email at ivanbogdanov.ivanov@georgebrown.ca
+**IT Support & Systems**
+Windows 11 · Windows Server 2025 · Active Directory · Group Policy · NTFS Permissions · Office 365 · Hardware Diagnostics · Ticketing Systems
+
+**Networking**
+Cisco IOS · VLANs & Trunking · EtherChannel · OSPF · ACLs · NAT · DHCP · IPv4/IPv6 · Subnetting · Packet Tracer · NETLAB+
+
+**Scripting & Automation**
+Python · PowerShell · Bash · Git · GitHub Actions · CI/CD · Linux (Kali/Debian)
+
+**Web & Tools**
+HTML · CSS · JavaScript · React · VS Code · Figma
+
+---
+
+## Education
+
+**Computer Systems Technician** — George Brown College, Toronto · 2024–2026
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanbogdanoviv&show_icons=true&theme=default&hide_border=true&title_color=01696F&icon_color=01696F&text_color=2E3A45&bg_color=F4F6F8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanbogdanoviv&layout=compact&theme=default&hide_border=true&title_color=01696F&text_color=2E3A45&bg_color=F4F6F8)
+
+</div>
+
+---
+
+<div align="center">
+
+Open to junior IT support, help desk, and networking roles in Toronto · Remote considered
+
+</div>
