@@ -4,7 +4,6 @@
 
 **Computer Systems Technician · Toronto, ON**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ivanbiv.lovable.app-01696F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ivanbiv.lovable.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-bogdanov-ivanov/)
 [![Email](https://img.shields.io/badge/Email-ivanbogdanov.ivanov%40georgebrown.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanbogdanov.ivanov@georgebrown.ca)
 
