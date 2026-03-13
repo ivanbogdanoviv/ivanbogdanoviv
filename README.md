@@ -23,8 +23,11 @@ Currently pursuing **CCNAv7** and actively looking for a junior IT support, help
 |---------|-----------|-------|
 | [**networking-labs**](https://github.com/ivanbogdanoviv/networking-labs) | 13 CCNA labs with full topology diagrams, IOS configs, and addressing tables — VLANs, OSPF, NAT, ACLs, DHCP, EtherChannel | Cisco IOS · Python · Bash |
 | [**active-directory-lab**](https://github.com/ivanbogdanoviv/active-directory-lab) | Windows Server 2025 AD DS — OU design, bulk user provisioning, Group Policy, account lifecycle automation | PowerShell · Windows Server 2025 |
+| [**windows-helpdesk-toolkit**](https://github.com/ivanbogdanoviv/windows-helpdesk-toolkit) | 6 helpdesk PowerShell tools: system reports, locked account recovery, disk health, network diagnostics, software export | PowerShell · Windows |
 | [**it-support-scripts**](https://github.com/ivanbogdanoviv/it-support-scripts) | Production-ready sysadmin scripts for Windows and Linux — system health, log analysis, user audits, config backups | PowerShell · Bash · Python |
 | [**github-automation-playground**](https://github.com/ivanbogdanoviv/github-automation-playground) | CI/CD pipelines and GitHub Actions workflows built to sharpen DevOps fundamentals | Python · GitHub Actions |
+| [**ai-notification-workflows**](https://github.com/ivanbogdanoviv/ai-notification-workflows) | AI-powered email summarization, alert routing, and auto-reply bot — reduced manual triage from 3 hrs/week to 30 min | Python · OpenAI API · Flask |
+| [**network-troubleshooting-journal**](https://github.com/ivanbogdanoviv/network-troubleshooting-journal) | 5 real-world Cisco troubleshooting cases with root cause analysis — VLAN mismatches, STP, OSPF, EtherChannel | Cisco IOS · Networking |
 
 ---
 
