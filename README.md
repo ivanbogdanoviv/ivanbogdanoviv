@@ -49,7 +49,7 @@ HTML · CSS · JavaScript · React · VS Code · Figma
 
 ## Education
 
-**Computer Systems Technician** — George Brown College, Toronto · 2024–2026
+**Computer Systems Technician** — George Brown College, Toronto · 2025–2026
 
 ---
 
